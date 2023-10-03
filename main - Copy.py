@@ -1,7 +1,4 @@
-print('Today is a good day to learn Python')
-print('Python is fun')
-print('Python`s string are easy to use')
-print('hello' + 'world')
-greeting = 'Hello'
-name = input('Please enter your name')
-print(greeting + '' + name)
+print('Number 1\tAmerican Elm')
+print('Number 2\tSugar Maple')
+print('Number 3\tRed Oak')
+print('Number 4\tAmerican Beech')
